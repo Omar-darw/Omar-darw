@@ -26,6 +26,8 @@ I also bring real-world experience in fast-paced environments, where I honed my 
 
 ![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omar-darw&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-darw&layout=compact&theme=radical)
+
+
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
