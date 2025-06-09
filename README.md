@@ -1,24 +1,48 @@
-# Hi there, I'm Omar! 👋
+# Hi there, I'm Omar Darwish 👋
 
-💻 Software Engineering | 🌐 Full-Stack Enthusiast  
-📫 Ask me anything [here](mailto:your.email@example.com)
-
-## 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-
-## 📈 GitHub Stats
-![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omar-darw&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-darw&layout=compact&theme=tokyonight)
-
-## 🔭 Projects
-- **[Project Name](#)** – Short description
-- **[Another Project](#)** – Description here
-
-## 🏆 Achievements
-- 🥇 Built a full-stack app with authentication and REST APIs
-- 🧠 Learning system design and AWS
+🎓 Software Engineering and Management student at University of Gothenburg  
+📱 Passionate about mobile app development with Flutter  
+🧠 Always learning, building, and collaborating!
 
 ---
+
+## 🚀 About Me
+
+I’m a curious and ambitious software engineering student with a deep passion for tech and programming. Outside of my academic work, I love designing and building mobile apps using **Flutter**, and experimenting with UI/UX in **Figma**.
+
+I also bring real-world experience in fast-paced environments, where I honed my collaboration, problem-solving, and communication skills.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Java, Python, JavaScript, C, C++, HTML, CSS, Kotlin  
+- **Frameworks & Tools:** Flutter, Figma, Git, GitHub  
+- **Interests:** Mobile development, user-centered design, full-stack development
+
+---
+
+## 📈 GitHub Stats
+
+![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omar-darw&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-darw&layout=compact&theme=radical)
+
+---
+
+## 📱 Projects
+
+- 🔧 **[MyMobileApp (coming soon)](#)** – A Flutter-based app with clean UI and user-focused features.
+- 🎨 **[UI Concepts in Figma (WIP)](#)** – Prototypes and wireframes for mobile designs.
+- 📂 More projects coming as I make them public – stay tuned!
+
+---
+
+## 💬 Contact Me
+
+- 📧 [omarkd2012@hotmail.com](mailto:omarkd2012@hotmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com)
+
+---
+
+> “Build what you love, and you'll love what you build.”
+
